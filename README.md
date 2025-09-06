@@ -3,9 +3,8 @@
 <p><em>I'm final year student at <a href="http://www.unb.br">IPS Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">> 
 </em></p>
 
-[![Linkedin: sahnik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahni-k-857b97253/)]([https://www.linkedin.com/in/sahni-k-857b97253/](https://www.linkedin.com/in/sahni-k-857b97253/))
-[![GitHub sahni06](https://img.shields.io/github/followers/sahni06?label=follow&style=social)]([https://github.com/Sahni06](https://github.com/Sahni06
-)
+[![Linkedin: sahnik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahni-k-857b97253/)](https://www.linkedin.com/in/sahni-k-857b97253/)
+[![GitHub sahni06](https://img.shields.io/github/followers/sahni06?label=follow&style=social)](https://github.com/Sahni06)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
